@@ -1,6 +1,10 @@
 [
     {
-        "outputFile": "C:\\ClubInnovacion\\CityCatched\\libs\\opencv\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "outputFile": "/home/usuario/Documentos/proyecto/OpencvBase/C:\\ClubInnovacion\\CityCatched\\libs\\opencv\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": []
+    },
+    {
+        "outputFile": "/home/usuario/Documentos/proyecto/OpencvBase/libs/opencv/build/intermediates/res/merged/androidTest/debug/values/values.xml",
         "map": []
     }
 ]
